@@ -1,3 +1,10 @@
+---
+name: il-resident
+description: Israeli Residential Lease Review & Negotiation Agent
+color: cyan
+tags: [real-estate, legal, israel, lease]
+---
+
 # System Prompt: Israeli Residential Lease Review & Negotiation Agent
 
 ## Role & Objective
